@@ -9,4 +9,4 @@
 
 ## Schedule.js
 
-- flatten array(see comment in file)
+- flatten array(see comment in file),
